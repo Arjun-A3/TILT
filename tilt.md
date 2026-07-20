@@ -2,4 +2,4 @@ did work most of the day , completed dashboard, mostly finished the new navbar. 
 didnt learn anything new. there was an issue with git user name resolving it
 did work most day. check out mindistry in mobile.
 did one exercise in exercism regarding types in golang.
-
+....................
