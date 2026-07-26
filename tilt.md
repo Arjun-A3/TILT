@@ -7,4 +7,5 @@ read a blog about cache value inconsistecy by an engineer at meta (Lu pan). TAO?
 nothing....
 Travelled had lots of fun!!!!!!!!!!!!!!!!!!!.
 nothing....
-Cuncorrency is Go's superpower
+Cuncorrency is Go's superpower.
+world is full of posibilities.
