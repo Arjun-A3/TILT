@@ -12,3 +12,4 @@ world is full of posibilities.
 nothing.......
 offline upi payment application,
 attended a gdg event regarding docker and made a friend
+no risk no story.
