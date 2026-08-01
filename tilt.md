@@ -14,3 +14,4 @@ offline upi payment application,
 attended a gdg event regarding docker and made a friend
 no risk no story.
 rag model for small scale business
+did nothing.
