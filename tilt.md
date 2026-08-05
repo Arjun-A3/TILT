@@ -16,3 +16,4 @@ no risk no story.
 rag model for small scale business
 did nothing.
 same........... did nothing.
+nothing
