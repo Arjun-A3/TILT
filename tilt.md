@@ -17,3 +17,4 @@ rag model for small scale business
 did nothing.
 same........... did nothing.
 nothing
+started work with rag modal, defining the system structure.
