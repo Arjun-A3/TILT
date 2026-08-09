@@ -19,3 +19,4 @@ same........... did nothing.
 nothing
 started work with rag modal, defining the system structure.
 refined the rag folder structure
+did nothing much
