@@ -21,3 +21,4 @@ started work with rag modal, defining the system structure.
 refined the rag folder structure
 did nothing much
 should i include open source rag modal or should i build it myself
+open source rag modal it is
