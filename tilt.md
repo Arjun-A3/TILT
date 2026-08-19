@@ -23,3 +23,4 @@ did nothing much
 should i include open source rag modal or should i build it myself
 open source rag modal it is
 nothing
+fastapi-rag-golang-server
