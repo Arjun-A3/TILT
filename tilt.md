@@ -24,3 +24,4 @@ should i include open source rag modal or should i build it myself
 open source rag modal it is
 nothing
 fastapi-rag-golang-server
+my first product idea was a rag and llm modal combined as a single software which can be used by any companies, i want the users to have complete anonity on the data they want to search through
