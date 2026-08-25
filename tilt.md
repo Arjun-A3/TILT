@@ -28,3 +28,4 @@ my first product idea was a rag and llm modal combined as a single software whic
 started rchsa classes
 do not many thing extra, surfed.
 learned about rhel support and its use
+created a autmation to send mail to a email, when a column in a gsheet is changes
