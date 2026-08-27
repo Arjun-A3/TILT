@@ -30,3 +30,4 @@ do not many thing extra, surfed.
 learned about rhel support and its use
 created a autmation to send mail to a email, when a column in a gsheet is changes
 HAPPY ONAM
+nothiung much
