@@ -32,3 +32,4 @@ created a autmation to send mail to a email, when a column in a gsheet is change
 HAPPY ONAM
 nothiung much
 learned abbout hardlink and softlink in linux environment
+decided to build a personal network device to sell online
