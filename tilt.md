@@ -34,3 +34,4 @@ nothiung much
 learned abbout hardlink and softlink in linux environment
 decided to build a personal network device to sell online
 didnt start the work on prototype
+learned about user groups in linux
