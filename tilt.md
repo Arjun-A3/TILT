@@ -37,3 +37,4 @@ didnt start the work on prototype
 learned about user groups in linux
 learned about how to configure user permissions in linux, sudoers file
 nothing
+learned about etc/passwd etc/shadow and other files in lunx
